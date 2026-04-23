@@ -105,11 +105,4 @@ print("Recommended Fertilizer:", prediction[0])
 |----------------|---------------|------------------|
 | HTML, CSS, JS  | Flask (Python) | SVM + Scikit-learn |
 
----
-## 🎥 Demo Video
-
-https://github.com/user-attachments/assets/6516f949-48d6-40b1-93d9-7244f0f535b0
-
-
-
 
