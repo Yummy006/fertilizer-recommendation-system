@@ -103,8 +103,8 @@ Python 3.8+
 pip
 
 1. Clone the Repository
-bashgit clone https://github.com/your-username/fertilizer-recommendation.git
-cd fertilizer-recommendation
+git clone https://github.com/Yummy006/fertilizer-recommendation-system.git
+cd fertilizer-recommendation-system
 2. Install Dependencies
 bashpip install -r requirements.txt
 Key dependencies:
